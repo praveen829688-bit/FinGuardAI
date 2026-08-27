@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# Databases
+*.db
+*.sqlite
+*.sqlite3
+*.db.*
+*.sqlite.*
+*.sqlite3.*
+
+# Logs
+*.log
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# ML model files
+*.pt
+*.pth
+*.pkl
+*.joblib
+*.h5
+*.keras
+
+# Backup files
+*backup
+*backup.*

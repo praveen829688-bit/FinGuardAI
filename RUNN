@@ -1,0 +1,13 @@
+cd "C:\Users\prave\Downloads\FinGuardAI\backend"
+.\venv\Scripts\Activate.ps1
+uvicorn app.main:app --reload
+
+
+
+
+
+Email:
+user@example.com
+
+Password:
+FinGuard@2026

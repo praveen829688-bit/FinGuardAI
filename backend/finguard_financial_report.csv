@@ -1,0 +1,23 @@
+Section,Metric,Value
+report,generated_at,2026-08-21T13:26:18.099363
+report,user_id,1
+cash_flow,income,50000.0
+cash_flow,expenses,77700.0
+cash_flow,net_cash_flow,-27700.0
+investments,count,2
+investments,invested_amount,35000.0
+investments,current_value,38500.0
+investments,profit_loss,3500.0
+credit,total_limit,100000.0
+credit,outstanding_balance,23500.0
+credit,utilization_percentage,23.5
+debt,total_outstanding,140000.0
+debt,count,1
+bills,count,2
+bills,total_amount,2799.0
+risk,risk_score,47.88
+risk,risk_level,MEDIUM
+risk,components,"{""transaction_risk"": 80.38, ""credit_risk"": 10, ""debt_risk"": 35.0, ""bill_risk"": 5, ""security_risk"": 60}"
+risk,metrics,"{""credit_utilization"": 23.5, ""total_debt"": 140000.0, ""overdue_bills"": 0, ""upcoming_bills"": 1, ""high_risk_transactions"": 0, ""critical_transactions"": 2, ""open_security_events"": 2}"
+risk,risk_factors,"[""High-risk transactions detected."", ""Outstanding debt exposure is significant."", ""Critical security events are still open.""]"
+risk,recommendations,"[""Review suspicious transactions immediately."", ""Prioritize repayment of outstanding debt."", ""Review and resolve critical security alerts.""]"
